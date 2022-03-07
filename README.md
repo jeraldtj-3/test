@@ -1,3 +1,5 @@
 # test
 
-test repo for git command for my own learning
+test repo to learn git command for self leaning
+
+This repo belongs to Jerald.
